@@ -1,0 +1,9 @@
+{
+  "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+  "datasets": [
+    {
+      "label": "Sales",
+      "data": [1000, 1500, 1200, 1300, 1600, 1800]
+    }
+  ]
+}

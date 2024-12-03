@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "label": "Users",
+      "progress": {
+        "content": "37K",
+        "percentage": 100
+      }
+    },
+    {
+      "label": "Clicks",
+      "progress": {
+        "content": "2M",
+        "percentage": 100
+      }
+    },
+    {
+      "label": "Sales",
+      "progress": {
+        "content": "$43,5K",
+        "percentage": 100
+      }
+    },
+    {
+      "label": "Items",
+      "progress": {
+        "content": "12K",
+        "percentage": 100
+      }
+    }
+  ]
+}
